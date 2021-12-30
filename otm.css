@@ -1,0 +1,101 @@
+h1{
+    text-align: center;
+    color: white;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+.paera{
+    text-align: center;
+    color: white;
+}
+button{
+    width: 150px;
+    margin-left: 830px;
+    margin-right: 0px;
+    color: white;
+    height: 50px;
+    border: 2px solid white;
+    background-color: #3c2ea5;
+    font-size: large;
+  }
+img{
+    height: 300px;
+    /* width: 300px; */
+    flex-basis: 300px;
+}  
+body{
+    background-color: #3c2ea5;
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    margin-left:20%;
+    margin-top: 3%;
+    display:flex;
+    
+}
+.div1{
+    margin-right: 3%;
+    text-align: center;
+    color:rgb(231, 212, 212);
+}
+.pa{
+    font-size: 180%;
+}
+.pb{
+    font-size: 180%;
+}
+.pc{
+    font-size: 180%;
+}
+/* .nav{ */
+    /* background-color: whitesmoke;
+    height: 80px;
+    width: 100%; */
+/* } */
+nav{
+    background-color: whitesmoke;
+    height: 80px;
+    width: 100%;
+    
+}
+.Menu{
+    display: flex;
+    margin-left: 25%;
+    text-align: end;
+    
+    /* margin-top: 3%; */
+}
+.nicepage{
+    height: 40px;
+    width: 120px;
+    padding: 15px;
+    right: 30%;
+}
+.m1{
+    /* text-align: center;  */
+    margin-left: 300px;
+    margin-top: -3.5%;
+    font-size: x-large;
+    /* margin-right: 15%; */
+} 
+.footer{
+    background-color: black;
+    height:100px;
+    width: 100%;
+    color: white;
+    /* text-align: center; */
+    margin-top: 4%;
+}
+.f{
+    /* align-self: flex-end; */
+    /* color: turquoise; */
+    /* margin-top: 15%; */
+    text-indent: 3ch;
+    text-align: center;
+    padding: 32px;
+
+
+}
